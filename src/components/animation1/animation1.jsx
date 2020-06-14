@@ -73,6 +73,9 @@ const Animation = () => {
           <Link to="/ani2" className="link">
             Animation2
           </Link>
+          <Link to="/ani3" className="link">
+            Animation3
+          </Link>
           <Link to="/slider" className="link">
             Slider
           </Link>
